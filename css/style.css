@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.ms_j-b{
+    justify-content: space-between;
+}
+
+.ms_img{
+    width: 100%;
+    object-fit: contain;
+    height: 90vh;
+}
+
+.ms_d_n{
+    display: none;
+}
+
+.ms_d_b{
+    display: block;
+}
+
+.ms_container-img{
+    width: 100%;
+}
